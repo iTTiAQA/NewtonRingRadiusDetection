@@ -1,0 +1,232 @@
+D:\Python\Python39\python.exe E:/Lenovo/资料/其它/大学文件/4_工作/牛顿环/实验5-4/多曲率半径/3.训练代码_曲率半径.py
+D:\Python\Python39\lib\site-packages\torchvision\models\_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+D:\Python\Python39\lib\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+Using device: cuda
+Trainable parameters: 11340865
+Epoch 1/100, Train Loss: 0.0097, Epoch Time: 36.30 seconds
+Epoch 1/100, Validation Loss: 0.0003
+Epoch 2/100, Train Loss: 0.0003, Epoch Time: 54.29 seconds
+Epoch 2/100, Validation Loss: 0.0000
+Epoch 3/100, Train Loss: 0.0000, Epoch Time: 101.39 seconds
+Epoch 3/100, Validation Loss: 0.0000
+Epoch 4/100, Train Loss: 0.0000, Epoch Time: 134.87 seconds
+Epoch 4/100, Validation Loss: 0.0000
+Epoch 5/100, Train Loss: 0.0001, Epoch Time: 146.99 seconds
+Epoch 5/100, Validation Loss: 0.0000
+Epoch 6/100, Train Loss: 0.0001, Epoch Time: 135.63 seconds
+Epoch 6/100, Validation Loss: 0.0003
+Epoch 7/100, Train Loss: 0.0000, Epoch Time: 135.82 seconds
+Epoch 7/100, Validation Loss: 0.0000
+Epoch 8/100, Train Loss: 0.0001, Epoch Time: 136.06 seconds
+Epoch 8/100, Validation Loss: 0.0002
+Epoch 9/100, Train Loss: 0.0001, Epoch Time: 136.26 seconds
+Epoch 9/100, Validation Loss: 0.0414
+Epoch 10/100, Train Loss: 0.0001, Epoch Time: 135.56 seconds
+Epoch 10/100, Validation Loss: 0.0000
+Epoch 11/100, Train Loss: 0.0000, Epoch Time: 135.20 seconds
+Epoch 11/100, Validation Loss: 0.0000
+Epoch 12/100, Train Loss: 0.0000, Epoch Time: 135.11 seconds
+Epoch 12/100, Validation Loss: 0.0000
+Epoch 13/100, Train Loss: 0.0001, Epoch Time: 135.22 seconds
+Epoch 13/100, Validation Loss: 0.0008
+Epoch 14/100, Train Loss: 0.0001, Epoch Time: 135.31 seconds
+Epoch 14/100, Validation Loss: 0.0005
+Epoch 15/100, Train Loss: 0.0001, Epoch Time: 135.03 seconds
+Epoch 15/100, Validation Loss: 0.0000
+Epoch 16/100, Train Loss: 0.0000, Epoch Time: 135.14 seconds
+Epoch 16/100, Validation Loss: 0.0001
+Epoch 17/100, Train Loss: 0.0001, Epoch Time: 135.05 seconds
+Epoch 17/100, Validation Loss: 0.0000
+Epoch 18/100, Train Loss: 0.0008, Epoch Time: 135.01 seconds
+Epoch 18/100, Validation Loss: 0.1076
+Epoch 19/100, Train Loss: 0.0004, Epoch Time: 134.99 seconds
+Epoch 19/100, Validation Loss: 0.0001
+Epoch 20/100, Train Loss: 0.0000, Epoch Time: 135.49 seconds
+Epoch 20/100, Validation Loss: 0.0383
+Epoch 21/100, Train Loss: 0.0000, Epoch Time: 135.48 seconds
+Epoch 21/100, Validation Loss: 0.0000
+Epoch 22/100, Train Loss: 0.0000, Epoch Time: 137.57 seconds
+Epoch 22/100, Validation Loss: 0.0000
+Epoch 23/100, Train Loss: 0.0000, Epoch Time: 135.54 seconds
+Epoch 23/100, Validation Loss: 0.0000
+Epoch 24/100, Train Loss: 0.0000, Epoch Time: 135.45 seconds
+Epoch 24/100, Validation Loss: 0.0000
+Epoch 25/100, Train Loss: 0.0000, Epoch Time: 135.47 seconds
+Epoch 25/100, Validation Loss: 0.0000
+Epoch 26/100, Train Loss: 0.0000, Epoch Time: 134.95 seconds
+Epoch 26/100, Validation Loss: 0.0000
+Epoch 27/100, Train Loss: 0.0000, Epoch Time: 135.82 seconds
+Epoch 27/100, Validation Loss: 0.0000
+Epoch 28/100, Train Loss: 0.0000, Epoch Time: 135.50 seconds
+Epoch 28/100, Validation Loss: 0.0000
+Epoch 29/100, Train Loss: 0.0001, Epoch Time: 135.50 seconds
+Epoch 29/100, Validation Loss: 0.0000
+Epoch 30/100, Train Loss: 0.0001, Epoch Time: 135.60 seconds
+Epoch 30/100, Validation Loss: 0.0001
+Epoch 31/100, Train Loss: 0.0001, Epoch Time: 135.79 seconds
+Epoch 31/100, Validation Loss: 0.0000
+Epoch 32/100, Train Loss: 0.0000, Epoch Time: 135.33 seconds
+Epoch 32/100, Validation Loss: 0.0001
+Epoch 33/100, Train Loss: 0.0002, Epoch Time: 135.21 seconds
+Epoch 33/100, Validation Loss: 0.0007
+Epoch 34/100, Train Loss: 0.0001, Epoch Time: 39764.60 seconds
+Epoch 34/100, Validation Loss: 0.0000
+Epoch 35/100, Train Loss: 0.0003, Epoch Time: 41.77 seconds
+Epoch 35/100, Validation Loss: 0.0573
+Epoch 36/100, Train Loss: 0.0003, Epoch Time: 32.47 seconds
+Epoch 36/100, Validation Loss: 0.0000
+Epoch 37/100, Train Loss: 0.0000, Epoch Time: 32.91 seconds
+Epoch 37/100, Validation Loss: 0.0000
+Epoch 38/100, Train Loss: 0.0000, Epoch Time: 33.97 seconds
+Epoch 38/100, Validation Loss: 0.0000
+Epoch 39/100, Train Loss: 0.0000, Epoch Time: 36.62 seconds
+Epoch 39/100, Validation Loss: 0.0000
+Epoch 40/100, Train Loss: 0.0000, Epoch Time: 38.61 seconds
+Epoch 40/100, Validation Loss: 0.0000
+Epoch 41/100, Train Loss: 0.0000, Epoch Time: 43.23 seconds
+Epoch 41/100, Validation Loss: 0.0000
+Epoch 42/100, Train Loss: 0.0000, Epoch Time: 43.40 seconds
+Epoch 42/100, Validation Loss: 0.0000
+Epoch 43/100, Train Loss: 0.0000, Epoch Time: 49.55 seconds
+Epoch 43/100, Validation Loss: 0.0000
+Epoch 44/100, Train Loss: 0.0000, Epoch Time: 51.07 seconds
+Epoch 44/100, Validation Loss: 0.0000
+Epoch 45/100, Train Loss: 0.0000, Epoch Time: 53.10 seconds
+Epoch 45/100, Validation Loss: 0.0001
+Epoch 46/100, Train Loss: 0.0001, Epoch Time: 56.19 seconds
+Epoch 46/100, Validation Loss: 0.0000
+Epoch 47/100, Train Loss: 0.0000, Epoch Time: 58.81 seconds
+Epoch 47/100, Validation Loss: 0.0001
+Epoch 48/100, Train Loss: 0.0000, Epoch Time: 61.93 seconds
+Epoch 48/100, Validation Loss: 0.0000
+Epoch 49/100, Train Loss: 0.0000, Epoch Time: 67.20 seconds
+Epoch 49/100, Validation Loss: 0.0000
+Epoch 50/100, Train Loss: 0.0000, Epoch Time: 73.68 seconds
+Epoch 50/100, Validation Loss: 0.0000
+Epoch 51/100, Train Loss: 0.0001, Epoch Time: 78.29 seconds
+Epoch 51/100, Validation Loss: 0.0001
+Epoch 52/100, Train Loss: 0.0002, Epoch Time: 92.63 seconds
+Epoch 52/100, Validation Loss: 0.0000
+Epoch 53/100, Train Loss: 0.0001, Epoch Time: 102.24 seconds
+Epoch 53/100, Validation Loss: 0.0001
+Epoch 54/100, Train Loss: 0.0000, Epoch Time: 119.72 seconds
+Epoch 54/100, Validation Loss: 0.0000
+Epoch 55/100, Train Loss: 0.0000, Epoch Time: 130.52 seconds
+Epoch 55/100, Validation Loss: 0.0000
+Epoch 56/100, Train Loss: 0.0000, Epoch Time: 113.42 seconds
+Epoch 56/100, Validation Loss: 0.0028
+Epoch 57/100, Train Loss: 0.0000, Epoch Time: 131.93 seconds
+Epoch 57/100, Validation Loss: 0.0000
+Epoch 58/100, Train Loss: 0.0000, Epoch Time: 136.15 seconds
+Epoch 58/100, Validation Loss: 0.0000
+Epoch 59/100, Train Loss: 0.0000, Epoch Time: 136.09 seconds
+Epoch 59/100, Validation Loss: 0.0000
+Epoch 60/100, Train Loss: 0.0000, Epoch Time: 136.53 seconds
+Epoch 60/100, Validation Loss: 0.0000
+Epoch 61/100, Train Loss: 0.0071, Epoch Time: 137.54 seconds
+Epoch 61/100, Validation Loss: 0.0097
+Epoch 62/100, Train Loss: 0.0026, Epoch Time: 137.63 seconds
+Epoch 62/100, Validation Loss: 0.0008
+Epoch 63/100, Train Loss: 0.0010, Epoch Time: 135.06 seconds
+Epoch 63/100, Validation Loss: 0.0024
+Epoch 64/100, Train Loss: 0.0011, Epoch Time: 134.86 seconds
+Epoch 64/100, Validation Loss: 0.0032
+Epoch 65/100, Train Loss: 0.0004, Epoch Time: 134.06 seconds
+Epoch 65/100, Validation Loss: 0.0005
+Epoch 66/100, Train Loss: 0.0003, Epoch Time: 135.85 seconds
+Epoch 66/100, Validation Loss: 0.0009
+Epoch 67/100, Train Loss: 0.0002, Epoch Time: 135.61 seconds
+Epoch 67/100, Validation Loss: 0.0001
+Epoch 68/100, Train Loss: 0.0002, Epoch Time: 135.66 seconds
+Epoch 68/100, Validation Loss: 0.0001
+Epoch 69/100, Train Loss: 0.0001, Epoch Time: 134.60 seconds
+Epoch 69/100, Validation Loss: 0.0000
+Epoch 70/100, Train Loss: 0.0000, Epoch Time: 135.08 seconds
+Epoch 70/100, Validation Loss: 0.0000
+Epoch 71/100, Train Loss: 0.0000, Epoch Time: 135.05 seconds
+Epoch 71/100, Validation Loss: 0.0000
+Epoch 72/100, Train Loss: 0.0000, Epoch Time: 134.96 seconds
+Epoch 72/100, Validation Loss: 0.0000
+Epoch 73/100, Train Loss: 0.0001, Epoch Time: 136.45 seconds
+Epoch 73/100, Validation Loss: 0.0002
+Epoch 74/100, Train Loss: 0.0000, Epoch Time: 136.23 seconds
+Epoch 74/100, Validation Loss: 0.0000
+Epoch 75/100, Train Loss: 0.0000, Epoch Time: 135.99 seconds
+Epoch 75/100, Validation Loss: 0.0000
+Epoch 76/100, Train Loss: 0.0000, Epoch Time: 136.20 seconds
+Epoch 76/100, Validation Loss: 0.0001
+Epoch 77/100, Train Loss: 0.0000, Epoch Time: 136.19 seconds
+Epoch 77/100, Validation Loss: 0.0001
+Epoch 78/100, Train Loss: 0.0000, Epoch Time: 146.31 seconds
+Epoch 78/100, Validation Loss: 0.0000
+Epoch 79/100, Train Loss: 0.0000, Epoch Time: 203.43 seconds
+Epoch 79/100, Validation Loss: 0.0001
+Epoch 80/100, Train Loss: 0.0000, Epoch Time: 135.76 seconds
+Epoch 80/100, Validation Loss: 0.0000
+Epoch 81/100, Train Loss: 0.0000, Epoch Time: 140.05 seconds
+Epoch 81/100, Validation Loss: 0.0000
+Epoch 82/100, Train Loss: 0.0000, Epoch Time: 137.68 seconds
+Epoch 82/100, Validation Loss: 0.0003
+Epoch 83/100, Train Loss: 0.0000, Epoch Time: 135.86 seconds
+Epoch 83/100, Validation Loss: 0.0000
+Epoch 84/100, Train Loss: 0.0001, Epoch Time: 142.52 seconds
+Epoch 84/100, Validation Loss: 0.0000
+Epoch 85/100, Train Loss: 0.0000, Epoch Time: 142.82 seconds
+Epoch 85/100, Validation Loss: 0.0000
+Epoch 86/100, Train Loss: 0.0000, Epoch Time: 168.82 seconds
+Epoch 86/100, Validation Loss: 0.0000
+Epoch 87/100, Train Loss: 0.0000, Epoch Time: 158.81 seconds
+Epoch 87/100, Validation Loss: 0.0002
+Epoch 88/100, Train Loss: 0.0000, Epoch Time: 170.25 seconds
+Epoch 88/100, Validation Loss: 0.0001
+Epoch 89/100, Train Loss: 0.0000, Epoch Time: 182.15 seconds
+Epoch 89/100, Validation Loss: 0.0001
+Epoch 90/100, Train Loss: 0.0001, Epoch Time: 188.67 seconds
+Epoch 90/100, Validation Loss: 0.0008
+Epoch 91/100, Train Loss: 0.0001, Epoch Time: 190.59 seconds
+Epoch 91/100, Validation Loss: 0.0001
+Epoch 92/100, Train Loss: 0.0000, Epoch Time: 200.55 seconds
+Epoch 92/100, Validation Loss: 0.0000
+Epoch 93/100, Train Loss: 0.0000, Epoch Time: 196.22 seconds
+Epoch 93/100, Validation Loss: 0.0001
+Epoch 94/100, Train Loss: 0.0000, Epoch Time: 180.06 seconds
+Epoch 94/100, Validation Loss: 0.0054
+Epoch 95/100, Train Loss: 0.0000, Epoch Time: 185.36 seconds
+Epoch 95/100, Validation Loss: 0.0000
+Epoch 96/100, Train Loss: 0.0001, Epoch Time: 194.91 seconds
+Epoch 96/100, Validation Loss: 0.0001
+Epoch 97/100, Train Loss: 0.0000, Epoch Time: 186.35 seconds
+Epoch 97/100, Validation Loss: 0.0001
+Epoch 98/100, Train Loss: 0.0000, Epoch Time: 192.54 seconds
+Epoch 98/100, Validation Loss: 0.0000
+Epoch 99/100, Train Loss: 0.0001, Epoch Time: 186.26 seconds
+Epoch 99/100, Validation Loss: 0.0000
+Epoch 100/100, Train Loss: 0.0000, Epoch Time: 196.09 seconds
+Epoch 100/100, Validation Loss: 0.0002
+Total Training Time: 52259.88 seconds
+     true_radius predicted_radius   radius_error     ruler
+0        [0.855]      [0.8469656]  [0.009396968]  0.000016
+1        [1.443]      [1.4200672]  [0.015892424]  0.000016
+2        [0.855]      [0.8481918]  [0.007962832]  0.000016
+3        [1.443]      [1.4212064]  [0.015102983]  0.000016
+4        [1.443]      [1.4237719]  [0.013325088]  0.000016
+...          ...              ...            ...       ...
+7995     [1.443]      [1.4208866]  [0.015324549]  0.000016
+7996     [0.855]      [0.8473984]  [0.008890782]  0.000016
+7997     [1.443]      [1.4217516]  [0.014725115]  0.000016
+7998     [1.443]       [1.419271]  [0.016444191]  0.000016
+7999     [0.855]      [0.8496817]  [0.006220285]  0.000016
+
+[8000 rows x 4 columns]
+Empty DataFrame
+Columns: []
+Index: []
+  true_radius predicted_radius   radius_error     ruler
+0     [0.855]      [0.8462804]  [0.010198389]  0.000016
+1     [1.443]      [1.4173734]  [0.017759211]  0.000016
+2     [0.855]     [0.83870196]  [0.019062053]  0.000016
+3     [1.443]      [1.4172693]  [0.017831331]  0.000016
+
+进程已结束,退出代码0
