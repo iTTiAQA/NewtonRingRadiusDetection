@@ -1,0 +1,15 @@
+close all; clear; clc
+x = 1:640;
+y = 1:480;
+ruler = 0.002/152.38;
+[X, Y] = meshgrid(x.*ruler,y.*ruler);
+ 
+R = 0.86;
+lamda = 589.3e-9; 
+x0 = 320*ruler;
+y0 = 240*ruler;
+ 
+Ic = 1;
+phase = 2*pi/lamda/R * ((X-x0).^2 + (Y - y0).^2) + pi;
+I = Ic + Ic *  cos(phase);
+figure, imshow(I,[]);
